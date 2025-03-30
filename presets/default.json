@@ -4,28 +4,28 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
+            false,
+            "AmateurStyle_v1_PONY_REALISM.safetensors",
+            0.8
+        ],
+        [
             true,
-            "None",
-            0.6
+            "Expressive_H-000001.safetensors",
+            0.8
         ],
         [
             true,
             "Palm Sized Plaything.safetensors",
-            1.1
+            0.8
         ],
         [
             true,
-            "Pussy_Cameltoe_v3_XL.safetensors",
+            "Super_Eye_Detailer_By_Stable_Yogi_SDPD0.safetensors",
             1.0
         ],
         [
             true,
             "zy_Realism_Enhancer_v1.safetensors",
-            1.0
-        ],
-        [
-            true,
-            "realcumv5_final.safetensors",
             1.0
         ]
     ],
@@ -35,7 +35,7 @@
     "default_scheduler": "karras",
     "default_performance": "Quality",
     "default_prompt": "",
-    "default_prompt_negative": "(embedding:negative_hand-neg.pt:1.1), pubic hair",
+    "default_prompt_negative": "pubic hair",
     "default_styles": [
     ],
     "default_aspect_ratio": "1152*896",
