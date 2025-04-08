@@ -6,7 +6,7 @@
         [
             false,
             "amateur_style_slider_v1_pony.safetensors",
-            2
+            1.4
         ],
         [
             true,
@@ -15,18 +15,18 @@
         ],
         [
             true,
-            "Palm Sized Plaything.safetensors",
-            0.9
+            "Lea_flux_by_Sergeandgreen.safetensors",
+            1
         ],
         [
             true,
             "Super_Eye_Detailer_By_Stable_Yogi_SDPD0.safetensors",
-            0.8
+            1
         ],
         [
             true,
             "Pony Realism Slider.safetensors",
-            2.5
+            3
         ]
     ],
     "default_cfg_scale": 4.0,
